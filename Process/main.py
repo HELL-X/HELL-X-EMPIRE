@@ -7,7 +7,7 @@ bot = Client(
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
-    plugins=dict(root="RaiChu.Player"),
+    plugins=dict(root="EBD_WORLD.Player"),
     )
 
 aman = Client(
@@ -23,7 +23,7 @@ user = PyTgCalls(aman,
 
 call_py = PyTgCalls(aman, overload_quiet_mode=True)
 
-with Client("RaiChu", API_ID, API_HASH, bot_token=BOT_TOKEN) as app:
+with Client("EBD_WORLD", API_ID, API_HASH, bot_token=BOT_TOKEN) as app:
     me_bot = app.get_me()
 with aman as app:
     me_aman = app.get_me()
