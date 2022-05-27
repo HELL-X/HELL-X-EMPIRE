@@ -1,5 +1,5 @@
 {
-    "name": "RaiChu Music Bot",
+    "name": "EBD_WORLD Music Bot",
     "description": "Telegram bot for Streaming  Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
     "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
     "keywords": [
@@ -7,9 +7,9 @@
         "telegram bot",
         "pyrogram"
     ],
-    "website": "https://t.me/BotDuniyaXd",
+    "website": "https://t.me/EBD_WORLD",
     "repository": "https://github.com/AMANTYA1/RaiChu-MusicV2",
-    "success_url": "https://t.me/BotDuniyaXd",
+    "success_url": "https://t.me/EBD_WORLD",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
