@@ -30,8 +30,8 @@ telegram bot project for streaming video on telegram video chat, powered by [tgc
 
 ## Fine me here  [EBD WORLD](https://t.me/ALONE_XDBot)
 
-🏷️ --**Setting Up**-- :
-- 1.) first, add @ALONE_XDBot to your group.
+🏷️ --**Setting EBD Up**-- :
+- 1.) first, add @EBDWORLD_BOT to your group.
 - 2.) then promote me as admin and give all permissions except anonymous admin.
 - 3.) add @RaiChupulg to your group.
 - 4.) turn on the voice chat first before start to play song.
@@ -85,7 +85,7 @@ The easiest way to host this bot
 - sudo curl -sL https://deb.nodesource.com/setup_17.x | sudo bash -
 - sudo apt-get install -y nodejs
 - sudo npm i -g npm
-- git clone https://github.com/AMANTYA1/RaiChu-MusicV2  #Clone your repo.
+- git clone https://github.com/EBDWORLD/RaiChu-MusicV2  #Clone your repo.
 - cd RaiChu-MusicV2
 - sudo pip3 install --upgrade pip
 - sudo pip3 install -U -r requirements.txt
