@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/EBD_WORLD",
-    "repository": "https://github.com/AMANTYA1/RaiChu-MusicV2",
+    "repository": "https://github.com/Hell-x/EBD-MusicV2",
     "success_url": "https://t.me/EBD_WORLD",
     "env": {
         "API_ID": {
@@ -46,7 +46,7 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": false,
-            "value": "godzilla_chatting"
+            "value": "EBD_CHATS"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
@@ -56,12 +56,12 @@
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": false,
-            "value": "Shubhanshutya"
+            "value": "MAFIA_RJ"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": false,
-            "value": "RaiChuXMusic"
+            "value": "EBD_WORLD"
         }
     },
     "addons": [],
