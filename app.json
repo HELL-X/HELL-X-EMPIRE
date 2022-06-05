@@ -1,15 +1,15 @@
 {
     "name": "EBD_WORLD Music Bot",
     "description": "Telegram bot for Streaming  Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
+    "logo": "https://telegra.ph/file/531b599737d91e7bd271f.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "pyrogram"
     ],
     "website": "https://t.me/EBD_WORLD",
-    "repository": "https://github.com/Hell-x/EBD-MusicV2",
-    "success_url": "https://t.me/EBD_WORLD",
+    "repository": "https://github.com/Hell-x/HELL-X-EMPIRE",
+    "success_url": "https://t.me/SCHOOL_WALLI_MASTI",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -46,22 +46,22 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": false,
-            "value": "EBD_CHATS"
+            "value": "SCHOOL_WALLI_MASTII"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": false,
-            "value": "BotDuniyaXd"
+            "value": "HELL_X_EMPIRW"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": false,
-            "value": "MAFIA_RJ"
+            "value": "OWNER_OF_B2K"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": false,
-            "value": "EBD_WORLD"
+            "value": "HELL_X_EMPIRE"
         }
     },
     "addons": [],
