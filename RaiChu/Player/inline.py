@@ -34,31 +34,31 @@ async def inline(client: Client, query: InlineQuery):
         InlineQueryResultArticle(
             title="Resume Stream",
             description=f"Resume the ongoing playout on group call.",
-            thumb_url="https://telegra.ph/file/f53f4c190e8c3d0af5fec.jpg",
+            thumb_url="https://telegra.ph/file/42d04e37eceb9f0880672.jpg",
             input_message_content=InputTextMessageContent("/resume"),
         ),
         InlineQueryResultArticle(
             title="Mute Stream",
             description=f"Mute the ongoing playout on group call.",
-            thumb_url="https://telegra.ph/file/f53f4c190e8c3d0af5fec.jpg",
+            thumb_url="https://telegra.ph/file/42d04e37eceb9f0880672.jpg",
             input_message_content=InputTextMessageContent("/mute"),
         ),
         InlineQueryResultArticle(
             title="Unmute Stream",
             description=f"Unmute the ongoing playout on group call.",
-            thumb_url="https://telegra.ph/file/f53f4c190e8c3d0af5fec.jpg",
+            thumb_url="https://telegra.ph/file/42d04e37eceb9f0880672.jpg",
             input_message_content=InputTextMessageContent("/unmute"),
         ),
         InlineQueryResultArticle(
             title="Skip Stream",
             description=f"Skip to next track. | For Specific track number: /skip [number] ",
-            thumb_url="https://telegra.ph/file/f53f4c190e8c3d0af5fec.jpg",
+            thumb_url="https://telegra.ph/file/42d04e37eceb9f0880672.jpg",
             input_message_content=InputTextMessageContent("/skip"),
         ),
         InlineQueryResultArticle(
             title="End Stream",
             description="Stop the ongoing playout on group call.",
-            thumb_url="https://telegra.ph/file/f53f4c190e8c3d0af5fec.jpg",
+            thumb_url="https://telegra.ph/file/42d04e37eceb9f0880672.jpg",
             input_message_content=InputTextMessageContent("/stop"),
         ),
       ]
