@@ -1,5 +1,5 @@
 {
-    "name": "EBD_WORLD Music Bot",
+    "name": "HELL_X_EMPIRE Music Bot",
     "description": "Telegram bot for Streaming  Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
     "logo": "https://telegra.ph/file/531b599737d91e7bd271f.jpg",
     "keywords": [
@@ -7,7 +7,7 @@
         "telegram bot",
         "pyrogram"
     ],
-    "website": "https://t.me/EBD_WORLD",
+    "website": "https://t.me/SCHOOL_WALLI_MASTUU",
     "repository": "https://github.com/Hell-x/HELL-X-EMPIRE",
     "success_url": "https://t.me/SCHOOL_WALLI_MASTI",
     "env": {
