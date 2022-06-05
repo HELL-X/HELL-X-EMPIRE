@@ -7,7 +7,7 @@
         "telegram bot",
         "pyrogram"
     ],
-    "website": "https://t.me/SCHOOL_WALLI_MASTUU",
+    "website": "https://t.me/SCHOOL_WALLI_MASTII",
     "repository": "https://github.com/Hell-x/HELL-X-EMPIRE",
     "success_url": "https://t.me/SCHOOL_WALLI_MASTI",
     "env": {
@@ -51,7 +51,7 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": false,
-            "value": "HELL_X_EMPIRW"
+            "value": "HELL_X_EMPIRE"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
