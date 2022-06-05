@@ -26,7 +26,7 @@ telegram bot project for streaming video on telegram video chat, powered by [tgc
 </p>  
 
 ## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AMANTYA1&repo=RaiChu-MusicV2&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Hell-x&repo=HELL-X-EMPIRE&theme=dark)
 
 ## Fine me here  [HELL_X_EMPIRE](https://t.me/SCHOOL_WALLI_MASTII)
 
