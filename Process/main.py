@@ -7,7 +7,7 @@ bot = Client(
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
-    plugins=dict(root="HELL_X.Player"),
+    plugins=dict(root="HELL.Player"),
     )
 
 aman = Client(
